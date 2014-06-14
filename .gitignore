@@ -1,1 +1,5 @@
-/patternsamples/
+bin
+.metadata
+*~
+target/
+*.class
